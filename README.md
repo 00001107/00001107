@@ -1,8 +1,6 @@
 - 👋 Hi, I’m aline
 - ### Boas vindas ao meu perfil
 
-- <!---### Boas vindas ao meu perfil 
-
 Meu nome é Aline Vitoria
 
 - Estou estudando na [Alura](https://www.alura.com.br)
